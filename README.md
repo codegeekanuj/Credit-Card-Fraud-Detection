@@ -20,6 +20,8 @@ Detect fraudulent credit card transactions using the [ULB MLG creditcard fraud d
 
 ## Setup
 
+From the portfolio root, `cd credit-card-fraud-detection`, then:
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
